@@ -24,7 +24,6 @@ Este sistema está diseñado para un grupo de ventas que realiza visitas tanto d
 - `pandas`: Manipulación de datos
 - `numpy`: Operaciones numéricas
 - `scikit-learn`: Modelado de machine learning
-- `xgboost`, `lightgbm`: Modelos avanzados de boosting
 - `matplotlib`, `seaborn`: Visualización de datos
 - `sqlite3`: Base de datos para almacenamiento de historial
 
